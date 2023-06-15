@@ -1,1 +1,0 @@
-# MyArtBook-kotlin
